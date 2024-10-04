@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 🌎 From Manaus, Amazonas, 🇧🇷
-- 🎨 Currently working as Product Designer  
+- 🎨 Currently working as Product Designer at [CI&T](https://ciandt.com/)  
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently (and always) learning how to draw and do design ops
 - 💬 Ask me about design tips
